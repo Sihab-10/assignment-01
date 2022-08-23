@@ -210,6 +210,26 @@ button {
   border-bottom-right-radius: 5px;
   border-style: hidden;
 }
+.thank-you {
+  width: 900px;
+  margin: 0 auto;
+}
+.thank-you img {
+  filter: grayscale(100%);
+}
+.thank-you a {
+  display: block;
+  font-size: 48px;
+  font-weight: 300;
+  text-decoration: none;
+  color: white;
+  background-color: #ff5959;
+  padding: 40px;
+  border-radius: 10px;
+  text-align: center;
+  font-family: "Lobster", cursive;
+}
+
 .footer-area {
   overflow: hidden;
 }
